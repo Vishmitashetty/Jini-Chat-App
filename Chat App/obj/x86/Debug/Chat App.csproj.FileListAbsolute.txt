@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Chat App\Chat App\bin\Debug\Chat App.exe
+C:\Users\admin\Desktop\Chat App\Chat App\bin\Debug\Chat App.pdb
+C:\Users\admin\Desktop\Chat App\Chat App\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Chat App\Chat App\obj\x86\Debug\Chat_App.Form1.resources
+C:\Users\admin\Desktop\Chat App\Chat App\obj\x86\Debug\Chat_App.Properties.Resources.resources
+C:\Users\admin\Desktop\Chat App\Chat App\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\Chat App\Chat App\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\Chat App\Chat App\obj\x86\Debug\Chat App.exe
+C:\Users\admin\Desktop\Chat App\Chat App\obj\x86\Debug\Chat App.pdb
